@@ -1,0 +1,3 @@
+"# EezyBotArm-with-RaspberryPi-Python" 
+
+Hello guys this is my second project with using Raspberry Pi 4 and Python. In this project i tried to program the servo and step motors for moving the robot arm to the right directions. It has 3 servos and one step motor and has 6 degree of freedom. In that project I used GPIO library to access Raspberry's logic pins to direct the motors but also used Adafruits servo motor card and its library to add enough servos to the project. I used Tkinter library to create detailed interface to control all the motors with buttons and sliders that Tkinter provides. I hope you guys like :)
